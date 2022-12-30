@@ -6,7 +6,7 @@
     "@researchgate/react-intersection-observer": "^0.7.3",
     "date-fns": "^1.29.0",
     "dom-form-serializer": "^1.0.7",
-    "gatsby": "^2.0.22",
+    "gatsby": "^2.32.13",
     "gatsby-image": "^2.0.14",
     "gatsby-plugin-netlify": "^2.0.1",
     "gatsby-plugin-netlify-cms": "^3.0.3",
